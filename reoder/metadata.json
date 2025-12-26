@@ -1,5 +1,0 @@
-{
-  "name": "Reorder Intelligence Dashboard 2025",
-  "description": "A sophisticated inventory reorder decision-making dashboard for '리오더요청양식 2025'. It integrates real-time Google Sheets data with Gemini AI to provide actionable stock insights and prioritized reorder recommendations for the entire company.",
-  "requestFramePermissions": []
-}
